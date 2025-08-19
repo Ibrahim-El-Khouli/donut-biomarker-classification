@@ -1,4 +1,4 @@
-# Donut Biomarker Classification 🍩🧪
+# Donut Biomarker Classification 🍩
 
 This project simulates biomarker readings from lab animals in a toxicology study.  
 Two rings of data (healthy vs. affected) are generated using NumPy, visualized with Matplotlib,  
