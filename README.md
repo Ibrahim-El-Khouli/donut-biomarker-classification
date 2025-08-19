@@ -24,7 +24,10 @@ The dataset is stored in `donut_dataset.csv`.
 3. Check the output CSV (`donut_dataset.csv`)
 
 ## 📂 Project Structure
+
+```text
 ├── donut_biomarker_classification.ipynb   # Notebook
 ├── donut_dataset.csv                      # Generated dataset
 └── README.md                              # Project documentation
+
 
